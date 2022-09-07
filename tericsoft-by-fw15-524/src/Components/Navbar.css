@@ -1,0 +1,12 @@
+.mainnav>div{
+    
+    border: 2px solid black;
+    background-color: rgb(50, 201, 199);
+    padding: 10px 100px;
+    
+}
+.mainnav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(29, 18, 1);
+}
